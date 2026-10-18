@@ -3291,7 +3291,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Fail-closed governance and separation of powers for MCP-enabled AI agents.
 - [Aribot](https://aribot.ayurak.com) `https://mcp.aribot.ayurak.com/mcp`
   [![Aribot MCP connector](https://glama.ai/mcp/connectors/com.ayurak/aribot-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ayurak/aribot-mcp)
-  OAuth - Threat models, code and cloud security findings, shadow-AI discovery and compliance posture from your Aribot workspace.
+  🔐 - Threat models, code and cloud security findings, and compliance posture from your Aribot workspace.
 - [Auth Posture](https://auth-posture.rowb.app) `https://auth-posture.rowb.app/mcp`
   [![Auth Posture MCP connector](https://glama.ai/mcp/connectors/app.rowb.auth-posture/audit/badges/score.svg)](https://glama.ai/mcp/connectors/app.rowb.auth-posture/audit)
   🔓 - One-call domain audit: MX receiving, SPF/DMARC/DKIM spoofing protection, disposable-address risk.
